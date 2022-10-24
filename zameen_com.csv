@@ -1,0 +1,300 @@
+type,price,location,bath,area,bed,Possession,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Public Transport,Nearby Restaurants,Security Staff
+Residential Plot,PKR44 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.6 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.5 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,14 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.5 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.35 Crore,"Bahria Town Phase 8 - Sector F-1, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.2 Crore,"Bahria Town Phase 8 - Club City, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.6 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR8 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5.3 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR20 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.3 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR26 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.6 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.75 Crore,"Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.2 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.65 Crore,"Bahria Town Phase 8 - Block D, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.73 Crore,"Bahria Town Phase 8 - Block B, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,18 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR96 Lakh,"Bahria Town Phase 8 - Block J, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,8 Marla,-,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-,-
+Residential Plot,PKR95 Lakh,"Bahria Town Phase 8 - Block J, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,8 Marla,-,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block B, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.45 Crore,"Bahria Greens - Overseas Enclave - Sector 2, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Residential Plot,PKR5.25 Crore,"Bahria Greens - Overseas Enclave - Sector 1, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2 Kanal,-,-,-,-,-,-,-,-,Yes,Yes,-,-,-
+Residential Plot,PKR1.75 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block H, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR1.85 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,16 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR1.6 Crore,"Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,-,-,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.7 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.2 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.2 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.4 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,Yes,Yes,Yes,-
+Residential Plot,PKR1.65 Crore,"Bahria Greens - Overseas Enclave - Sector 5, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.75 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.5 Crore,"Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,14 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.6 Crore,"Bahria Town Phase 8 - Block H, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Residential Plot,PKR1.8 Crore,"Bahria Town Phase 8 - Block H, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,12 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.75 Crore,"Bahria Greens - Overseas Enclave - Sector 1, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.58 Crore,"Bahria Town Phase 8 - Block D, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10.9 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR90 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.1 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.55 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.15 Crore,"Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,Yes,-,-,-,-
+Residential Plot,PKR1.85 Crore,"Bahria Greens - Overseas Enclave - Sector 7, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR3.6 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2.3 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.6 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.2 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.5 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Commercial Plot,PKR10.5 Crore,"Midway Commercial, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,11 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Commercial Plot,PKR13 Crore,"Bahria Paradise, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR16.5 Crore,"Bahria Spring North, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,14 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR85 Lakh,"Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.3 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,12 Marla,-,Yes,-,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR63 Lakh,"Rose Garden, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,-,Yes,Yes,Yes,-,Yes,Yes,Yes,-,Yes,Yes
+Residential Plot,PKR2.2 Crore,"Bahria Town Phase 8 - Block D, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,-,Yes,Yes
+Residential Plot,PKR55 Lakh,"Bahria Town - Precinct 3, Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR78 Lakh,"Bahria Town Phase 8 - Block M, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR66.5 Lakh,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.85 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR25.92 Crore,"Bahria Spring North, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2.6 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1 Crore,"Bahria Town Phase 8 - Block K, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR84 Lakh,"Bahria Town Phase 8 - Block K, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,8 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR58 Lakh,"Bahria Town - Precinct 5, Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Commercial Plot,PKR17 Crore,"Bahria Spring North, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.5 Crore,"Bahria Greens - Overseas Enclave - Sector 5, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.13 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.5 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.65 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.3 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR2.6 Crore,"Hub Commercial, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,-
+Residential Plot,PKR1 Crore,"Bahria Town Phase 8 - Umer Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR42.5 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,-
+Residential Plot,PKR42.5 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR95 Lakh,"Bahria Town Phase 8 - Ali Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR42.5 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.3 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes
+Residential Plot,PKR1.55 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.05 Crore,"Bahria Town Phase 8 - Rafi Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,8 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR2.25 Crore,"Bahria Town Phase 8 - Rafi Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes
+Residential Plot,PKR1.05 Crore,"Bahria Town Phase 8 - Sector F-5, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.7 Crore,"Bahria Town Phase 8 - Block D, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR53 Lakh,"Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR65 Lakh,"Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes
+Residential Plot,PKR1 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.7 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,14 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR6.4 Crore,"Bahria Town Phase 4, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,6 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR6 Crore,"Bahria Intellectual Village, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.5 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,-,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Hills, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,Yes,Yes,-,-,-,-,Yes,Yes,-,Yes,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block G, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR85 Lakh,"Bahria Town Phase 8 - Khalid Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10.9 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,-,-,Yes
+Commercial Plot,PKR22 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.3 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3.5 Crore,"Bahria Spring North, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3.5 Crore,"Bahria Spring North, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR29.2 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,6 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.25 Crore,"Bahria Greens - Overseas Enclave - Sector 5, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.55 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.75 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.7 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes
+Residential Plot,PKR1.35 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes
+Residential Plot,PKR1.75 Crore,"Bahria Town Phase 8 - Sector F-4, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Sector F-1, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR62 Lakh,"Rose Garden, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR67 Lakh,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-,Yes
+Residential Plot,PKR67 Lakh,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.95 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,Yes
+Residential Plot,PKR2.45 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.2 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,Yes
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block H, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,14 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,Yes
+Residential Plot,PKR2.45 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.2 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,Yes
+Residential Plot,PKR1.95 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.3 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR45 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.35 Crore,"Bahria Town Phase 8 - Block G, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,13 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.15 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.78 Crore,"Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.35 Crore,"Bahria Greens - Overseas Enclave - Sector 5, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR78 Lakh,"Bahria Town Phase 8 - Rafi Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.03 Crore,"Bahria Town Phase 8 - Ali Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR1.3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR1.3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR1.3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR3 Crore,"Bahria Town Phase 8 - Block A1, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,4 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.1 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.75 Crore,"Bahria Town Phase 8 - Sector F-4, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.1 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.75 Crore,"Bahria Town Phase 8 - Sector F-4, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR42.5 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.9 Crore,"Bahria Town Phase 8 - Club City, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR42.5 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.2 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,Yes,Yes,Yes,Yes,-,-,-,-,-,-,Yes
+Residential Plot,PKR1.6 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR75 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,11.6 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,Yes
+Commercial Plot,PKR75 Crore,"Bahria Town Phase 8 - Eden Lake View Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,11.6 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,Yes
+Commercial Plot,PKR25 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.15 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Commercial Plot,PKR5.5 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.68 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,Yes
+Commercial Plot,PKR15.8 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.35 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.95 Crore,"Bahria Greens - Overseas Enclave - Sector 7, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,12 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR95 Lakh,"Bahria Town Phase 8 - Abu Bakar Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.15 Crore,"Bahria Town Phase 8 - Umer Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR6.5 Crore,"Bahria Paradise, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,6 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR6 Crore,"Bahria Paradise, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR24 Crore,"Bahria Paradise, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR95 Lakh,"Bahria Town Phase 8 - Khalid Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR5.5 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,4 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR82 Lakh,"Bahria Town Phase 8 - Ali Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,-,-,-,-,Yes,-,Yes,Yes,Yes,-,Yes
+Residential Plot,PKR82 Lakh,"Bahria Town Phase 8 - Ali Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.75 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.75 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR75 Lakh,"Bahria Town - Precinct 3, Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR88.5 Lakh,"Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.29 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.03 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,-
+Residential Plot,PKR70 Lakh,"Bahria Town Phase 8 - Block M, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR75 Lakh,"Bahria Town Phase 8 - Rafi Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,-
+Residential Plot,PKR32 Lakh,"Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.5 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,16.1 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10.9 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.9 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR1.35 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2.7 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes
+Commercial Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Awais Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2.7 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-
+Commercial Plot,PKR99 Lakh,"Bahria Town Phase 8 - Usman Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2.3 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.58 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.22 Crore,"Bahria Town Phase 8 - Usman Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 8 - Sector F-1, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR92 Lakh,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR58 Lakh,"Bahria Town Phase 8 - Awami Villas 3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",2 Baths,5 Marla,2 Beds,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR58 Lakh,"Bahria Town Phase 8 - Awami Villas 3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",2 Baths,5 Marla,2 Beds,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR58 Lakh,"Bahria Town Phase 8 - Awami Villas 3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",2 Baths,5 Marla,2 Beds,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR58 Lakh,"Bahria Town Phase 8 - Awami Villas 3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",2 Baths,5 Marla,2 Beds,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR62 Lakh,"Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.75 Crore,"Bahria Town Phase 8 - Block D, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10.9 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR68 Lakh,"Bahria Town Phase 8 - Block M, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,Yes
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 8 - Block H, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.15 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.85 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.6 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR47.5 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.15 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,-
+Residential Plot,PKR1.22 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,-
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,13 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.22 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10.9 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR53 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR58 Lakh,"Bahria Town Phase 8 - Awami Villas 3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",2 Baths,5 Marla,2 Beds,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.13 Crore,"Bahria Town Phase 8 - Awais Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.12 Crore,"Bahria Town Phase 8 - Awais Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Awais Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.13 Crore,"Bahria Town Phase 8 - Awais Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR3 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR3.25 Crore,"Bahria Square Commercial, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR34 Lakh,"Bahria Town - Precinct 4, Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.2 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.6 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR75 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR75 Lakh,"Bahria Town Phase 8 - Block M, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.22 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.22 Crore,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.08 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Commercial Plot,PKR1.95 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Sector F-1, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.1 Crore,"Bahria Town Phase 8 - Sector F-5, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.2 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.15 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10.9 Marla,-,Yes,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.18 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.5 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,17 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.3 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR3.8 Crore,"Bahria Town Phase 3, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.2 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Town Phase 8 - Block H, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR1.35 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR92 Lakh,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR92 Lakh,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.25 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR68 Lakh,"Bahria Town Phase 8 - Block K, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.25 Crore,"Bahria Town Phase 8 - Block A1, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR43.5 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR45 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.28 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR78 Lakh,"Bahria Town Phase 8 - Block M, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.45 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.7 Crore,"Bahria Town Phase 8 - Block H, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR1.08 Crore,"Bahria Town Phase 8 - Sector F-5, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,15 Marla,-,Yes,-,-,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.08 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.22 Crore,"Bahria Town Phase 8 - Sector F-1, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,11 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.3 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,15 Marla,-,Yes,-,-,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.25 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR3.75 Crore,"Bahria Town Phase 3, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR2.35 Crore,"River View Commercial, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR1.35 Crore,"Bahria Town Phase 8 - Eden Lake View Block, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2.7 Marla,-,-,-,-,-,-,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.28 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.1 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block E, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR1.4 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR2.25 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.45 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR6.5 Crore,"Bahria Paradise, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR6 Crore,"Bahria Hills, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,2.6 Kanal,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.55 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Residential Plot,PKR1.1 Crore,"Bahria Town Phase 8 - Block L, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR90 Lakh,"Bahria Town Phase 8 - Abu Bakar Block, Bahria Town Phase 8 - Safari Valley, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.7 Crore,"Bahria Greens - Overseas Enclave - Sector 3, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR2.5 Crore,"Bahria Greens - Overseas Enclave - Sector 5, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR77 Lakh,"Bahria Town Phase 8 - Block M, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR2.4 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR55 Lakh,"Rose Garden, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR2.2 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,16 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.18 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR83 Lakh,"Bahria Town Phase 8 - Bahria Orchard, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR56 Lakh,"Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.05 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR78 Lakh,"Bahria Town Phase 8 - Sector F-3, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR85 Lakh,"Bahria Town Phase 8 - Block K, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.15 Crore,"Bahria Town Phase 8 - Block I, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,-,Yes,Yes,Yes,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR4.7 Crore,"Bahria Intellectual Village, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR25.8 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.6 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Commercial Plot,PKR19.8 Crore,"Bahria Business District, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.95 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.65 Crore,"Bahria Greens - Overseas Enclave - Sector 6, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR56 Lakh,"Bahria Town Phase 8 Extension, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR1.6 Crore,"Bahria Town Phase 8 - Block P, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-,-,-,-
+Residential Plot,PKR2.85 Crore,"Bahria Town Phase 1, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1 Kanal,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Residential Plot,PKR2.25 Crore,"Bahria Town Phase 2, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Residential Plot,PKR2.2 Crore,"Bahria Town Phase 3, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Residential Plot,PKR5.9 Crore,"Bahria Intellectual Village, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.6 Kanal,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Commercial Plot,PKR2.5 Crore,"Bahria Square Commercial, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,Yes,Yes,-,Yes,-
+Commercial Plot,PKR7 Crore,"Ring Road Commercial, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Commercial Plot,PKR2.5 Crore,"Bahria Square Commercial, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Residential Plot,PKR2.6 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.6 Kanal,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.6 Crore,"Bahria Hamlet, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,1.6 Kanal,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR2.5 Crore,"Bahria Greens - Overseas Enclave - Sector 7, Bahria Greens - Overseas Enclave, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,16 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR80 Lakh,"Bahria Town Phase 8 - Block K, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,7 Marla,-,-,-,-,-,-,-,-,-,-,-,-,-
+Commercial Plot,PKR3.25 Crore,"Bahria Square Commercial, Bahria Town Phase 7, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR1.5 Crore,"Bahria Town Phase 8 - Sector F-2, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,-,-,-,-,-,-
+Residential Plot,PKR65 Lakh,"Rose Garden, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,5 Marla,-,Yes,-,Yes,Yes,Yes,-,-,Yes,Yes,Yes,Yes,Yes
+Residential Plot,PKR1.7 Crore,"Bahria Town Phase 8 - Block C, Bahria Town Phase 8, Bahria Town Rawalpindi, Rawalpindi, Punjab",-,10 Marla,-,Yes,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,Yes
