@@ -106,6 +106,9 @@ This repository reflects my journey of learning and sharing knowledge with the c
 
 P.S Make sure to **STAR** this repo just incase you want to comeback to this or want to improve this.
 
+## 📜 License
+
+This repository is licensed under the MIT License. See the LICENSE file for details.
 
 
 
