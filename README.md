@@ -101,10 +101,10 @@ jupyter notebook
 ---
 
 ## 🌟 About Me
-
 I’m passionate about Python programming and its real-world applications. 
 This repository reflects my journey of learning and sharing knowledge with the community.
-P.S Make sure to *STAR* this repo just incase you want to comeback to this or want to improve this.
+
+P.S Make sure to **STAR** this repo just incase you want to comeback to this or want to improve this.
 
 
 
